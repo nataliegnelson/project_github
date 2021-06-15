@@ -4,3 +4,6 @@ library(tidyverse)
 
 # Load data
 data(iris)
+
+# Check dimensions of iris
+dim(iris)
